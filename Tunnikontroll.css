@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat;
+}
+
+.container{
+    max-width: auto;
+    margin: auto;
+}
+
+.header{
+
+}
+
+.banner {
+    height: 265px;
+}
+
+.banner h1{
+    text-align: center;
+    color: #fff;
+    font-size: 64px;
+}
+
+.banner p{
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+}
+
+.banner{
+
+}
+
+.content{
+    
+}
+
+.footer{
+    background-color: #000;
+    opacity: 64%;
+    text-align: center;
+    color: #fff;
+    padding: 64px;
+    margin: 64px;
+}
