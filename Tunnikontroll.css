@@ -39,7 +39,7 @@
 }
 .banner {
     height: 400px;
-    background-image: url(CSS/image/bg.png);
+    background-image: url(/CSS/image/bg.png);
     background-size: cover;
     padding-top: 60px;
 }
